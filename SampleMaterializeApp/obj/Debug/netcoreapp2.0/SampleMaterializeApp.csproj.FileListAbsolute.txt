@@ -1,0 +1,11 @@
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\bin\Debug\netcoreapp2.0\SampleMaterializeApp.deps.json
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\bin\Debug\netcoreapp2.0\SampleMaterializeApp.runtimeconfig.json
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\bin\Debug\netcoreapp2.0\SampleMaterializeApp.runtimeconfig.dev.json
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\bin\Debug\netcoreapp2.0\SampleMaterializeApp.dll
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\bin\Debug\netcoreapp2.0\SampleMaterializeApp.pdb
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\obj\Debug\netcoreapp2.0\SampleMaterializeApp.csprojAssemblyReference.cache
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\obj\Debug\netcoreapp2.0\SampleMaterializeApp.csproj.CoreCompileInputs.cache
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\obj\Debug\netcoreapp2.0\SampleMaterializeApp.AssemblyInfoInputs.cache
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\obj\Debug\netcoreapp2.0\SampleMaterializeApp.AssemblyInfo.cs
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\obj\Debug\netcoreapp2.0\SampleMaterializeApp.dll
+C:\Users\Woobie\Desktop\Woob\SampleMaterializeApp\SampleMaterializeApp\obj\Debug\netcoreapp2.0\SampleMaterializeApp.pdb

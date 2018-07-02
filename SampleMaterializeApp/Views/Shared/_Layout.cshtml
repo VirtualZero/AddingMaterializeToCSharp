@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SampleMaterializeApp</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/css/materialize.css"  />
+        <link href="https://fonts.googleapis.com/icon?family=Materialize+Icons" rel="stylesheet" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="~/css/materialize.css" />
+        <link href="https://fonts.googleapis.com/icon?family=Materialize+Icons" rel="stylesheet" />
+    </environment>
+        
+</head>
+
+<!--Our Navigation Bar-->
+<body class="grey darken-2">
+    <nav class="teal lighten-2">
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo center white-text" style="font-family:Cambrian, Arial;"<span class="flow-text">Sample Materialize App by VirtualZero</span></a>
+        </div>
+    </nav>
+    @RenderBody()
+
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/js/materialize.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/js/materialize.js"></script>
+    </environment>
+
+
+    @RenderSection("Scripts", required: false)
+
+
+</body>
+</html>
